@@ -13,7 +13,7 @@ name                     : &name "Yilin Yang"
 description              : &description "I am a 4th year science student with a specialization of combined major of CS and STATS at University of British Columbia. My current research interests span the fields of statistics, machine learning, and artifical intelligence."
 url                      : https://freddieneverleft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "freddieneverleft/freddieneverleft.github.io"
+repository               : "FreddieNeverLeft/freddieneverleft.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projects
   - scope:
       path: ""
       type: projects
