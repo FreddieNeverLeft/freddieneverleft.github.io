@@ -23,7 +23,7 @@ Work experience/ Research experience
     *	Currently working with Professor William J. Welch, and Senior Data Scientist Hao Chen to develop Bayesian methods for GaSP 2.0.0, who first published their Bayesian Gaussian Process method on SIAM/ASA Journal.
     * The Bayesian methods proposed show some distinct advantages in terms of prediction accuracy and uncertainty quantification and will allow GaSP to be even more flexible. 
 
-*  April - August 2020 : Research Assistant
+* April - August 2020 : Research Assistant
   * University of British Columbia
   * Developed ‘GaSP’, an R package with C code. See more in Publications.
   * Supervisor: Professor William J. Welch, Department of Statistics

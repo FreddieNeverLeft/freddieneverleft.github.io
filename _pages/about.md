@@ -18,7 +18,7 @@ Coming from a bachelors degree, my interests are still broad, but here is some o
 * Statistical and Machine learning:
   * Handling of high dimensional data /large-scale Statistical and Machine learning in fields such as computer vision and biomedical research. Nowadays, data grow too complex for traditional methods and the need for developing new methods arises. I am interested both in the mathematical aspects of these problems as well as their applications.
   * Deep learning methods and their applications.
-*	Artificial Intelligence
+* Artificial Intelligence
   * Reinforcement Learning
   * Applications on robtics such as self-driving cars.
 
