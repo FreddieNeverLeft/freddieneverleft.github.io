@@ -1,5 +1,5 @@
 ---
-title: "Higgs Boson Machine Learning Challenge"
+title: "Kaggle Higgs Boson Machine Learning Challenge"
 collection: projects
 type: "Undergraduate course project"
 permalink: /projects/hbmlc

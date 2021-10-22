@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/GaSP-future
 excerpt: 'Future for GaSP Version 2.0.0 and 3.0.0'
 date: 2022-01-01
-venue: 'CRAN'
-paperurl: 'https://CRAN.R-project.org/package=GaSP'
+venue: ''
+paperurl: ''
 citation: ''
 ---
 * Currently working with Professor William J. Welch, and Senior Data Scientist Hao Chen to develop Bayesian methods for GaSP 2.0.0, who first published their Bayesian Gaussian Process method on SIAM/ASA Journal.
