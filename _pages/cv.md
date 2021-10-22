@@ -15,13 +15,6 @@ Education
 
 Work experience/ Research experience
 ======
-*  April - August 2020 : Research Assistant
-  * University of British Columbia
-  * Developed ‘GaSP’, an R package with C code. See more in Publications.
-  * Supervisor: Professor William J. Welch, Department of Statistics
-    * Developed ‘GaSP’, an R package with C code. GaSP uses Gaussian processes and is used for analysis of computer experiments. GaSP uses available runs to fit a GP via MLE or MAP and predicts a result given untried parameters. It also has the capabilities to plot important effect plots, which makes GaSP much more useful and informative. Unlike other packages that implement GP models, GaSP is extremely robust and efficient. It has no issues with the scaling of training data and is suitable for handling large datasets.
-    *	GaSP is now available on CRAN. See 'Publications' section.
-
 
 * May 2021 - Present: Research Assistant
   * University of British Columbia
@@ -29,6 +22,13 @@ Work experience/ Research experience
   * Supervisor: Professor William J. Welch, Department of Statistics
     *	Currently working with Professor William J. Welch, and Senior Data Scientist Hao Chen to develop Bayesian methods for GaSP 2.0.0, who first published their Bayesian Gaussian Process method on SIAM/ASA Journal.
     * The Bayesian methods proposed show some distinct advantages in terms of prediction accuracy and uncertainty quantification and will allow GaSP to be even more flexible. 
+
+*  April - August 2020 : Research Assistant
+  * University of British Columbia
+  * Developed ‘GaSP’, an R package with C code. See more in Publications.
+  * Supervisor: Professor William J. Welch, Department of Statistics
+    * Developed ‘GaSP’, an R package with C code. GaSP uses Gaussian processes and is used for analysis of computer experiments. GaSP uses available runs to fit a GP via MLE or MAP and predicts a result given untried parameters. It also has the capabilities to plot important effect plots, which makes GaSP much more useful and informative. Unlike other packages that implement GP models, GaSP is extremely robust and efficient. It has no issues with the scaling of training data and is suitable for handling large datasets.
+    *	GaSP is now available on CRAN. See 'Publications' section.
 
   
 Skills
