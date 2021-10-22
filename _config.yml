@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  Projects:
+  projects:
     output: true
     permalink: /:collection/:path/
-  Publications:
+  publications:
     output: true
     permalink: /:collection/:path/
 
