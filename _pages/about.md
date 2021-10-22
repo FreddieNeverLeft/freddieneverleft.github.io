@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Homepage of Yilin Yang"
+title: "Homepage of Yilin Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
