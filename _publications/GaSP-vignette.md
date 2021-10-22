@@ -2,7 +2,7 @@
 title: "GaSP Vignette"
 collection: publications
 permalink: /publication/GaSP-vignette
-excerpt: 'Vignette with GaSP R Package'
+excerpt: 'Vignette for GaSP R Package'
 date: 2021-11-01
 venue: 'CRAN'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
