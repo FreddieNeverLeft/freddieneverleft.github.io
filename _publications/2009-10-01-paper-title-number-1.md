@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "GaSP R Package"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/GaSP
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-06-07
+venue: 'CRAN'
+paperurl: 'https://CRAN.R-project.org/package=GaSP'
+citation: 'William J. Welch and Yilin Yang (2021). GaSP: Train and Apply a Gaussian Stochastic Process Model. R package version 1.0.1. https://CRAN.R-project.org/package=GaSP'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[CRAN link](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: William J. Welch and Yilin Yang (2021). GaSP: Train and Apply a Gaussian Stochastic Process Model. R package version 1.0.1. https://CRAN.R-project.org/package=GaSP 
