@@ -1,6 +1,6 @@
 ---
 title: "projects experience 2"
-collection: Projects
+collection: projects
 type: "Workshop"
 permalink: /projects/2015-spring-projects-1
 venue: "University 1, Department"

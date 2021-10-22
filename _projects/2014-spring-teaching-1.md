@@ -1,6 +1,6 @@
 ---
 title: "projects experience 1"
-collection: Projects
+collection: projects
 type: "Undergraduate course"
 permalink: /projects/2014-spring-projects-1
 venue: "University 1, Department"
