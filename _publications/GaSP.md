@@ -14,4 +14,6 @@ Train a Gaussian stochastic process model of an unknown function, possibly obser
 
 [CRAN link for GaSP](https://CRAN.R-project.org/package=GaSP)
 
+[CRAN link for GaSP Documentation](https://CRAN.R-project.org/package=GaSP/GaSP.pdf)
+
 Recommended citation: William J. Welch and Yilin Yang (2021). GaSP: Train and Apply a Gaussian Stochastic Process Model. R package version 1.0.1. https://CRAN.R-project.org/package=GaSP 
