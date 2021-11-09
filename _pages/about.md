@@ -13,10 +13,10 @@ I am a 4th year science student with a specialization in combined major of Compu
 
 Reasearch Interests
 ======
-Coming from a bachelors degree, my interests are still broad, but here are some of directions I am interested in:
+Coming from a Bachelor‘s degree, my interests are still broad, but here are some of directions I am interested in:
 
 * Statistical and Machine learning:
-  * Handling of high dimensional data /large-scale Statistical and Machine learning in fields such as computer vision and biomedical research. Nowadays, data grow too large and complex for traditional methods and the need for developing new methods arises. I am interested both in the mathematical aspects of these problems as well as their applications.
+  * Handling of high dimensional data /large-scale Statistical and Machine learning in fields such as computer vision. Nowadays, data grow too large and complex for traditional methods and the need for developing new methods arises. I am interested both in the mathematical aspects of these problems as well as their applications.
   * Deep learning methods and their applications.
 * Artificial Intelligence
   * Reinforcement Learning
