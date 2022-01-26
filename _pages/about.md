@@ -11,7 +11,7 @@ About me
 ======
 I am a 4th year science student with a specialization in combined major of Computer Science and Statistics at University of British Columbia. Coming from a background from both computer science and statistics, I have a strong fundamental in programming as well as mathematics. My upper-level courses had a focus on machine learning, statistical learning, and AI. Which provided me with an invaluable insight to the many aspects of ML and AI that I am highly motivated to continue my studies in.
 
-Reasearch Interests
+Research Interests
 ======
 Coming from a Bachelor‘s degree, my interests are still broad, but here are some of directions I am interested in:
 
@@ -34,3 +34,8 @@ Projects
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
