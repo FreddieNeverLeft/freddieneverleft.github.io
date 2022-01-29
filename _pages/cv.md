@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc in Combined Major in Computer Science and Statistics, University of British Columbia, Vancouver, April 2022 (expected)
+* BSc in Combined Major in Computer Science and Statistics, University of British Columbia, Vancouver, May 2022 (expected)
 
 Work experience/ Research experience
 ======
