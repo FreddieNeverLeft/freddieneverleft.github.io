@@ -6,7 +6,7 @@ excerpt: 'GaSP: Train and Apply a Gaussian Stochastic Process Model'
 date: 2021-06-07
 venue: 'CRAN'
 paperurl: 'https://CRAN.R-project.org/package=GaSP'
-citation: 'William J. Welch and Yilin Yang (2021). GaSP: Train and Apply a Gaussian Stochastic Process Model. R package version 1.0.1. https://CRAN.R-project.org/package=GaSP'
+citation: 'William J. Welch and Yilin Yang (2022). GaSP: Train and Apply a Gaussian Stochastic Process Model. R package version 1.0.1. https://CRAN.R-project.org/package=GaSP'
 ---
 GaSP: Train and Apply a Gaussian Stochastic Process Model. Version 1.0.1.
 
