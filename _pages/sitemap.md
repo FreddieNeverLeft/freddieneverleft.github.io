@@ -20,17 +20,17 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 <h2>Projects</h2>
-{% for projects in site.projects %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Publications</h2>
-{% for publications in site.publications %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Teaching</h2>
-{% for teaching in site.teaching %}
+{% for post in site.teaching %}
   {% include archive-single.html %}
 {% endfor %}
 
