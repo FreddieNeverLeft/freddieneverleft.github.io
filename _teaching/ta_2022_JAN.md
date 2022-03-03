@@ -11,4 +11,4 @@ location: "Vancouver, BC, Canada"
 * Undergraduate Teaching Assistant, approximately 12 hours per week average.
 * Supervisor: [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/)
 * In-person TA, primary duties include holding office hours as well as conducting weekly tutorial sessions.
-* [Course Website Link](https://CRAN.R-project.org/package=GaSP/GaSP.pdf)
+* [Course Website Link](https://www.cs.ubc.ca/~schmidtm/Courses/440-W22/)
