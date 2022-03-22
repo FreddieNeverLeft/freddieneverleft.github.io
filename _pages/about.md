@@ -22,6 +22,7 @@ Coming from a Bachelor‘s degree, my interests are still broad, but here are so
   * Reinforcement Learning
   * Applications on robotics such as self-driving cars.
 
+<span style="color:blue"> Starting</span>.
 
 Publications
 ======
