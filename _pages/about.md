@@ -22,7 +22,7 @@ Coming from a Bachelor‘s degree, my interests are still broad, but here are so
   * Reinforcement Learning
   * Applications on robotics such as self-driving cars.
 
-<span style="color:red;font-weight:bold"> Starting May 2022, I will be joining [Parklab](https://privacy-preserving-machine-learning.github.io/) at UBC CS as a Phd. Track MSc. student! I will be cosupervised by [Profoessor Park]https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Li](https://xxlya.github.io/xiaoxiao/). </span>.
+<span style="color:red;font-weight:bold"> Starting May 2022, I will be joining [Parklab](https://privacy-preserving-machine-learning.github.io/) at UBC CS as a Phd. Track MSc. student! I will be cosupervised by [Profoessor Mijung Park](https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/). </span>.
 
 Publications
 ======
