@@ -9,20 +9,19 @@ redirect_from:
 ---
 About me
 ======
-I am a 4th year science student with a specialization in combined major of Computer Science and Statistics at University of British Columbia. Coming from a background from both computer science and statistics, I have a strong fundamental in programming as well as mathematics. My upper-level courses had a focus on machine learning, statistical learning, and AI. Which provided me with an invaluable insight to the many aspects of ML and AI that I am highly motivated to continue my studies in.
+I am a Masters in CS student at University of British Columbia. I am part of the UBC [Parklab](https://privacy-preserving-machine-learning.github.io/) at UBC CS as a PhD. Track MSc. student. I am cosupervised by [Profoessor Mijung Park](https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/)
 
 Research Interests
 ======
-Coming from a Bachelor‘s degree, my interests are still broad, but here are some of directions I am interested in:
+Coming from a Bachelor's degree, my interests are still broad, but here are some of directions I am interested in:
 
 * Statistical and Machine learning:
-  * Handling of high dimensional data /large-scale Statistical and Machine learning in fields such as computer vision. Nowadays, data grow too large and complex for traditional methods and the need for developing new methods arises. I am interested both in the mathematical aspects of these problems as well as their applications.
-  * Deep learning methods and their applications.
+  * Medical Imaging
+  * Differential Privacy
+  * Federated Learning
 * Artificial Intelligence
   * Reinforcement Learning
   * Applications on robotics such as self-driving cars.
-
-<span style="color:red;font-weight:bold"> Starting May 2022, I will be joining [Parklab](https://privacy-preserving-machine-learning.github.io/) at UBC CS as a PhD. Track MSc. student. I will be cosupervised by [Profoessor Mijung Park](https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/). </span>.
 
 Publications
 ======
