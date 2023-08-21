@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc in Combined Major in Computer Science and Statistics, University of British Columbia, Vancouver, May 2022 (expected)
+* BSc in Combined Major in Computer Science and Statistics, University of British Columbia, Vancouver, May 2022
+* 
 
 Work experience/ Research experience
 ======
@@ -34,7 +35,7 @@ Work experience/ Research experience
 Skills
 ======
 * Machine learning: Deep Learning, MCMC, Descent Methods, Clustering, Variational Inference, convex optimization
-* Statistics: Statistical Analysis, Statistical Learning, Sample Surveying, MLE, MAP, Missing values Imputation
+* Statistics: Statistical Analysis, Statistical Learning, Sample Surveying, MLE, MAP, Missing Values Imputation
 * AI: Reinforcement learning, MDP, Bayesian Networks, Clustering, Decoding
 * Computer Science: Operating Systems, Analysis of algorithms, Software Engineering, Graph theory
 * Programming: C/C++, R, Python, Julia, Java, TypeScript, RcppArmadillo, Keras, Node.js
