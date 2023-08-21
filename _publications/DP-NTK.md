@@ -3,7 +3,7 @@ title: "DP-NTK"
 collection: publications
 permalink: /publication/DP_NTK
 excerpt: 'Differentially Private Neural Tangent Kernels for Privacy-Preserving Data Generation'
-date: 2021-06-07
+date: 2023-08-21
 venue: 'arXiv'
 paperurl: 'https://CRAN.R-project.org/package=GaSP'
 citation: 'Yilin Yang, Kamil Adamczewski, Danica J. Sutherland, Xiaoxiao Li, & Mĳung Park. (2023). Differentially Private Neural Tangent Kernels for Privacy-Preserving Data Generation'
