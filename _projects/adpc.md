@@ -1,5 +1,5 @@
 ---
-title: "Kaggle Autonomous Driving Prediction Challenge "
+title: "Kaggle Autonomous Driving Prediction Challenge"
 collection: projects
 type: "Undergraduate course project"
 permalink: /projects/adpc
