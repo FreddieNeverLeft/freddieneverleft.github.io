@@ -14,4 +14,4 @@ location: "University of British Columbia"
 - The webpage can be accessed at
 https://www.students.cs.ubc.ca/~mshizhe/admin.php
 - All code are included in the repository below, there the script to create all tables
-is named “NBA.sql” https://github.com/FreddieNeverLeft/CPSC_304_NBA
+is named “NBA.sql” https://github.com/Justinyangjy/CPSC_304_NBA

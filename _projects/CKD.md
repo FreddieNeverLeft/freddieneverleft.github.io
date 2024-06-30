@@ -9,4 +9,4 @@ location: "University of British Columbia"
 ---
 
 * Exploratory Data Analysis (EDA), KNN classification with hyperparameter tuning by Cross-Validation to determine the most effective first test for CKD patients to help reduce the medical costs and time. 
-* [GitHub link to project](https://github.com/FreddieNeverLeft/UBC-DSCI-100-Project)
+* [GitHub link to project](https://github.com/Justinyangjy/UBC-DSCI-100-Project)

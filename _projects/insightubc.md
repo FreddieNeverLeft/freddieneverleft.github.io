@@ -9,4 +9,4 @@ location: "University of British Columbia"
 ---
 
 * A TypeScript full stack web development project with Node.js as server-side development, the project as a RESTful web server aims to enable effective querying of the metadata from around campus, including course info and past averages.
-* [GitHub link to project](https://github.com/FreddieNeverLeft/InsightUBC)
+* [GitHub link to project](https://github.com/Justinyangjy/InsightUBC)

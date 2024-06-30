@@ -9,4 +9,4 @@ location: "University of British Columbia"
 ---
 
 * Java program with JavaFX GUI designed to provide players with a deck builder that can filter by multiple criteria with no loading time between searches and make deck sharing/copying easy and simple with text file import and exports. 
-* [GitHub link to project](https://github.com/FreddieNeverLeft/Unofficial_GwentDB)
+* [GitHub link to project](https://github.com/Justinyangjy/Unofficial_GwentDB)
