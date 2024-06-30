@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yilin Yang"
   avatar           : "profile.jpg"
-  bio              : "I am a Masters in CS student at University of British Columbia."
+  bio              : "I am a recent graduate with a Master's degree in Computer Science from the University of British Columbia."
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yilinyang-/"
   orcid            : "https://orcid.org/0000-0003-0885-6017"
   pinterest        :
   soundcloud       :

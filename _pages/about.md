@@ -9,19 +9,20 @@ redirect_from:
 ---
 About me
 ======
-I am a Masters in CS student at University of British Columbia. I am part of the UBC [Parklab](https://privacy-preserving-machine-learning.github.io/) at UBC CS as a PhD. Track MSc. student. I am cosupervised by [Profoessor Mijung Park](https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/)
+I am a recent graduate with a Master's degree in Computer Science from the University of British Columbia. I was cosupervised by [Profoessor Mijung Park](https://scholar.google.com/citations?hl=en&inst=17001591832933267808&user=fqKsAJcAAAAJ) and [Professor Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/)
+
+I am currently an Applied Machine Learning Intern at [Vector Institue](https://vectorinstitute.ai/), where I work on the project [FL4Health](https://github.com/VectorInstitute/FL4Health), my supervisor is [David Emerson](https://vectorinstitute.ai/team/david-emerson/). My responsbilities include deploying SOTA Federated Learning methods and conducting research on new FL methods. 
 
 Research Interests
 ======
-Coming from a Bachelor's degree, my interests are still broad, but here are some of directions I am interested in:
+My research focuses on safe and responsible AI:
 
 * Statistical and Machine learning:
-  * Medical Imaging
-  * Differential Privacy
   * Federated Learning
+  * Differential Privacy
 * Artificial Intelligence
+  * LLM deployment (RAG, finetuning, agents, prompt engineering etc.)
   * Reinforcement Learning
-  * Applications on robotics such as self-driving cars.
 
 Publications
 ======
